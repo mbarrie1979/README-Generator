@@ -12,6 +12,11 @@ const questions = [
     },
     {
         type: 'input',
+        message: 'What is your Git Hub username?',
+        name: 'github'
+    },
+    {
+        type: 'input',
         message: 'What is the title of your project?',
         name: 'title'
     },
@@ -76,10 +81,11 @@ function writeToFile(filename, data) {
 // Function to initialize app
 function init() {
     inquirer.prompt(questions).then((data) => {
-        const { email, title, description, license, dependencies, tests, needToKnow, contributions, credits } = data
+        const { email, github, title, description, license, dependencies, tests, needToKnow, contributions, credits } = data
 
         const readMeInfo = {
             email,
+            github,
             title,
             description,
             license,
