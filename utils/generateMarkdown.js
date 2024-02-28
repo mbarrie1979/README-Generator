@@ -96,7 +96,7 @@ function renderLicenseSection(license) {
 
 
 function generateMarkdown(data) {
-  const { title, description, dependencies, tests, needToKnow, contributions } = data
+  const { email, title, description, dependencies, tests, needToKnow, contributions, credits } = data
   const licenseSection = renderLicenseSection(data.license);
   return `# ${title}
 
@@ -115,7 +115,7 @@ function generateMarkdown(data) {
   
   
   ## Credits
-  
+  ${credits}
   
   ${licenseSection}
   
@@ -128,7 +128,7 @@ function generateMarkdown(data) {
   ${tests}
   
   ## Contact
-  
+  ${email}
   `;
 }
 
