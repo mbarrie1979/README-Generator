@@ -1,4 +1,4 @@
-# Amazing Web Application
+# Best Web App Ever
 
   ## Table of Contents
 - [Description](#description)
@@ -12,7 +12,7 @@
 ---------
 
   ## Description
-  The application is absolutely the most amazing thing ever. It will help you create and do amazing things
+  This application is going to change the face of the internet!
   
   
   
@@ -21,12 +21,12 @@
   
   
   ## Repo Usage
-  Fork and clone and have fun!
+  Fork and Clone and have fun!
   
   
   
   ## Credits
-  Mark Barrie - Developer - GitHub: markymarky55
+  Marky Marky Squad - GitHub: markymarkymarky
   
   ## License
 
@@ -36,12 +36,12 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) li
   
   
   ## How to Contribute
-  Fork and clone. Push your changes and create a pull request on the original repo.
+  Fork, clone, push and create pull requests on the original repo
   
   
   ## Tests
   none
   
   ## Contact
-  mark@business.com
+  markymark@gmail.com
   

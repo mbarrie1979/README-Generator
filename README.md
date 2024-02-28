@@ -1,6 +1,6 @@
 # README Generator
 
-Thank you for checking out the SuperAwesome Project! This project is designed to simplify your development process with a command-line based application that dynamically generates a professional README file for your projects.
+Thank you for checking out my Project! This project is designed to simplify your development process with a command-line based application that dynamically generates a professional README file for your projects.
 
 ## Table of Contents
 - [Description](#description)
@@ -47,8 +47,11 @@ none
 ## Screenshots
 Below are screenshots demonstrating the application functionality:
 
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
+![Screenshot 1](assets/Screenshot_1.png)
+![Screenshot 2](assets/Screenshot_2.png)
+![Screenshot 3](assets/Screenshot_3.png)
+![Screenshot 4](assets/Screenshot_4.png)
+![Screenshot 5](assets/Screenshot_5.png)
 
 ## Video Demonstration
 Watch a video demonstration of the application [here](https://watch.screencastify.com/v/NlYhOrVsTDLnjJb8RB3p).
