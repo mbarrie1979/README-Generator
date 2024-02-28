@@ -1,36 +1,47 @@
-# dsfsdf
+# ReadMe Generator
+
+  ## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#repo-usage)
+- [Credits](#credits)
+- [License](#license)
+- [Contributing](#how-to-contribute)
+- [Tests](#tests)
+
+---------
 
   ## Description
-  sdfsdf
+  This generator is designed to generate a readme document to make the process easier for developers
   
   
   
   ## Installation
-  sdfsdf
+  npm i
   
   
   ## Repo Usage
-  sdfsdf
+  fork and clone
   
   
   
   ## Credits
-  
+  Mark Barrie - GitHub: mbarriembarrie
   
   ## License
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-
-This project is licensed under the [AFL-3.0](https://opensource.org/licenses/AFL-3.0) license.
+This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
   
   
   ## How to Contribute
-  sdfsdf
+  fork, clone, push any changes and create a pull request on the original repo
   
   
   ## Tests
-  sdfsdf
+  none
   
   ## Contact
-  
+  mark@mark.com
   
