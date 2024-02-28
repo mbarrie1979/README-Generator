@@ -1,4 +1,4 @@
-# ReadMe Generator
+# Amazing Web Application
 
   ## Table of Contents
 - [Description](#description)
@@ -12,7 +12,7 @@
 ---------
 
   ## Description
-  This generator is designed to generate a readme document to make the process easier for developers
+  The application is absolutely the most amazing thing ever. It will help you create and do amazing things
   
   
   
@@ -21,12 +21,12 @@
   
   
   ## Repo Usage
-  fork and clone
+  Fork and clone and have fun!
   
   
   
   ## Credits
-  Mark Barrie - GitHub: mbarriembarrie
+  Mark Barrie - Developer - GitHub: markymarky55
   
   ## License
 
@@ -36,12 +36,12 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) li
   
   
   ## How to Contribute
-  fork, clone, push any changes and create a pull request on the original repo
+  Fork and clone. Push your changes and create a pull request on the original repo.
   
   
   ## Tests
   none
   
   ## Contact
-  mark@mark.com
+  mark@business.com
   
