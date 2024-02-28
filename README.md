@@ -30,7 +30,8 @@ To use this repository, clone it to your local machine, install dependencies, an
 Follow the prompts to enter your project details.
 
 ## Credits
-- Mark Barrie - Developer - GitHub: [mbarrie1979](https://github.com/mbarrie1979)
+- Starter code [here](https://github.com/coding-boot-camp/potential-enigma)
+- Mark Barrie - further development - GitHub: [mbarrie1979](https://github.com/mbarrie1979)
 
 ## License
 none
