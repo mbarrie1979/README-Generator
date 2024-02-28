@@ -51,7 +51,7 @@ Below are screenshots demonstrating the application functionality:
 ![Screenshot 2](path/to/screenshot2.png)
 
 ## Video Demonstration
-Watch a video demonstration of the application [here](https://example.com/video-demo).
+Watch a video demonstration of the application [here](https://watch.screencastify.com/v/NlYhOrVsTDLnjJb8RB3p).
 
 ## Contact
 For any questions or inquiries, please contact me at [mark.a.barrie@gmail.com](mailto:mark.a.barrie@gmail.com).
