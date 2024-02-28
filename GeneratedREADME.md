@@ -1,16 +1,16 @@
-# Weather Generator
+# dsfsdf
 
   ## Description
-  It generates the weather magically. It's MAGIC!!
+  sdfsdf
   
   
   
   ## Installation
-  npm i
+  sdfsdf
   
   
   ## Repo Usage
-  please fork responsibly 
+  sdfsdf
   
   
   
@@ -19,17 +19,17 @@
   
   ## License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
+
+This project is licensed under the [AFL-3.0](https://opensource.org/licenses/AFL-3.0) license.
   
   
   ## How to Contribute
-  nothing 
+  sdfsdf
   
   
   ## Tests
-  none needed
+  sdfsdf
   
   ## Contact
   
